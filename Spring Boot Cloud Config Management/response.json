@@ -1,0 +1,18 @@
+{
+    "name": "application",
+    "profiles": [
+        "default"
+    ],
+    "label": null,
+    "version": "bdaf5d5dfd24519ec604c769a02d4d717c88906e",
+    "state": null,
+    "propertySources": [
+        {
+            "name": "C:\\Users\\Samrth Narula\\Documents\\Spring Boot Cloud\\project\\configrepo/file:C:\\Users\\SAMRTH~1\\AppData\\Local\\Temp\\config-repo-5065515711338239380\\application.yml",
+            "source": {
+                "my.greeting": "Welcome to Great Learning",
+                "my.list": "values:apple,banana,mango"
+            }
+        }
+    ]
+}
